@@ -1,0 +1,6 @@
+{
+  "name": "Custom Keyboard",
+  "description": "A fully-featured and highly customizable keyboard supporting themes, custom images, shapes, custom fonts, and simulated physical key sounds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
